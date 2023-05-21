@@ -1,0 +1,11 @@
+body {
+    padding: 10px;
+}
+h1, h2{
+    color: #c47a23 !important;
+    max-width: 800px;
+    text-align: center;
+}
+img{
+    padding: 50px 14px;
+}
